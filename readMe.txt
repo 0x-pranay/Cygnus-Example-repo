@@ -6,3 +6,6 @@
 4. make some changes
 5. move them to staging
 6. commit them 
+
+7. using branches to seperatly work on different features.
+
