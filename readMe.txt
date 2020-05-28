@@ -25,4 +25,8 @@
 # using Remotes
 
 1. First add a remote to our local repo
+	git remote add <name> <url>
 2. either pull/ push changes to between remote repo and local repo
+	to push:
+	git push -u <remote_name> <branch_name>
+
