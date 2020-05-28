@@ -6,6 +6,8 @@
 4. make some changes
 5. move them to staging
 6. commit them 
+7. using branches to seperatly work on different features.
+
 
 # Branches
 
@@ -17,3 +19,4 @@
 
 2. changes -> add to staging -> commit
 3. If you want this branch to merge with another branch use merging.
+

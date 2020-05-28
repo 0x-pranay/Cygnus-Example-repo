@@ -1,0 +1,7 @@
+How to use branches in git.
+
+1. Create a branch
+2. checkout to that branch (switching)
+3. Make some changes and move them to staging.
+4. commit.
+
