@@ -20,3 +20,9 @@
 2. changes -> add to staging -> commit
 3. If you want this branch to merge with another branch use merging.
 
+
+
+# using Remotes
+
+1. First add a remote to our local repo
+2. either pull/ push changes to between remote repo and local repo
