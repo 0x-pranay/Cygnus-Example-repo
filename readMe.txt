@@ -6,3 +6,14 @@
 4. make some changes
 5. move them to staging
 6. commit them 
+
+# Branches
+
+1. create a new Branch
+	git branch <branch_name>
+		or
+  if you  want to create a branch and checkout to that branch use
+	git checkout -b <branch_name>
+
+2. changes -> add to staging -> commit
+3. If you want this branch to merge with another branch use merging.
